@@ -13,5 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
-Preview of your README
+  I'm pursuing a Bachelor of Computer Applications (BCA).
+About Me
+♟️ I enjoy playing basic chess.
+🌱 I love learning new skills and exploring new things.
+💻 I'm interested in growing my knowledge of computers and technology.
+Goals
+Build my technical skills step by step.
+Learn through practice and small projects.
+Keep exploring and improving every day.
+Thanks for visiting my profile! 😊
+
